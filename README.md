@@ -4,6 +4,14 @@
 >
 > It is the repeatable process I use to translate business strategy into production-ready software through specification, engineering workstreams, AI-assisted implementation, disciplined review, and measurable releases.
 
+![Spec Driven](https://img.shields.io/badge/Workflow-Spec--Driven-blue)
+
+![Human in the Loop](https://img.shields.io/badge/Review-Human--in--the--Loop-green)
+
+![AI Native](https://img.shields.io/badge/AI-Agentic-orange)
+
+![Production](https://img.shields.io/badge/Focus-Production-black)
+
 # Spec-Driven Agentic Workflow
 
 A practical engineering runbook for orchestrating AI-assisted software delivery using Antigravity, Codex, ChatGPT, Gemini and disciplined human review.
