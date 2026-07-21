@@ -1,3 +1,9 @@
+> This repository documents the operating system I use to build production software with AI-assisted engineering.
+>
+> It is not a prompt collection.
+>
+> It is the repeatable process I use to translate business strategy into production-ready software through specification, engineering workstreams, AI-assisted implementation, disciplined review, and measurable releases.
+
 # Spec-Driven Agentic Workflow
 
 A practical engineering runbook for orchestrating AI-assisted software delivery using Antigravity, Codex, ChatGPT, Gemini and disciplined human review.
